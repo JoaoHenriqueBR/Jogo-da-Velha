@@ -1,5 +1,4 @@
 # Jogo da Velha - Open Beta 3.1
----
 
 ### Dependências
 
