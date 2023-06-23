@@ -1,7 +1,7 @@
 # Das bibliotecas os e time, é importado os comandos (system, sleep).
 from os import system # system('clear') é usado para limpar a tela.
 from time import sleep # sleep(segundos) é usado para pausar o programa.
-from random import randint
+from random import randint # Biblioteca usada pela cpu para criar suas jogadas.
 
 # Declaração de variáveis
 resp = 's'
