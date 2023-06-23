@@ -30,7 +30,6 @@ Ganha quem conseguir colocar 3 peças em linha reta em sentido vertical, diagona
 
 Quando todas as posições são preenchidas e não há nenhum ganhador, é uma "velha", assim sendo um empate.
 
----
 ## Créditos
 
 Programa foi desenvolvido, em conjunto, na FATEC Zona Sul por:
