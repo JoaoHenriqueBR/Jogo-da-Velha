@@ -23,18 +23,18 @@ while resp == 's': # Inicia o jogo.
     i = 3 # Importante, é usada para contar o número de jogadas e a vez do jogador.
     status = 'erro'
     modo = 0
-    
-    print('~=~'*5)
-    print('JOGO DA VELHA! ')
-    print('~=~'*5)
 
     while modo != 1 and modo != 2:
+        print('~=~'*5)
+        print('JOGO DA VELHA! ')
+        print('~=~'*5)
         print('1 - JOGAR CONTRA CPU!')
         print('2 - JOGAR CONTRA AMIGO!')
         try:
             modo = int(input('Escolha o modo de jogo: '))
         except:
-            print('Valor Inválido! Tente Novamente.')
+            print('\nValor Inválido! Tente Novamente...')
+            sleep(2)
         system('clear')
     
     while status == 'erro': # Pequeno loop para decidir a peça inicial.
