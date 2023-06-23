@@ -24,7 +24,7 @@ Jogado no Terminal, existem 2 modos:
 
 Se usa números (1-9) para definir a jogada:
 
-[![Instruções](https://raw.githubusercontent.com/JoaoHenriqueBR/Jogo-da-Velha/main/Imagens/Instruções.png)]
+![Instruções](https://raw.githubusercontent.com/JoaoHenriqueBR/Jogo-da-Velha/main/Imagens/Instruções.png)
 
 Ganha quem conseguir colocar 3 peças em linha reta em sentido vertical, diagonal ou horizontal, por exemplo (X em 1,2,3).
 
