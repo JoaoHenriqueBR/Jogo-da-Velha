@@ -88,7 +88,7 @@ while resp == 's': # Inicia o jogo.
         
         if pos < 10 and pos > 0: # Se a posição for válida (Entre 1 e 9)
             if lista[pos-1] != ' ': # Verifica se já foi usada
-                if modo == 2:
+                if modo == 2 or op == 1:
                     system('clear')
                     print('Essa posição ja está preenchida!')
                     sleep(3)
