@@ -13,7 +13,7 @@ Após extrair o ZIP, abra o terminal.
 - Ou, no Linux, você pode abrir a pasta do jogo, apertar o botão direito e clicar em `Abrir o Terminal aqui`.
 
 Execute o jogo:
-`python3 projeto\ jogo\ da\ velha\ v3.1.py`
+`python3 jogo\ da\ velha.py`
 
 ## Como jogar
 
