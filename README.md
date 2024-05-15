@@ -2,18 +2,24 @@
 
 ### Dependências
 
-Requer que `Python` seja instalado no Windows, no Linux Python já vem pré-instalado. (Não testei no Mac OS)
+Requer que `Python` seja instalado no Windows, no Linux e Mac OS Python já vem pré-instalado.
 
-### Instalar
-Para instalar, basta clonar o repositório clicando em `Code > Download ZIP`.
+## Como Baixar
+Para jogar, basta baixar o arquivo `main.py` (Pode ser baixado atráves do `Releases`, ou diretamento do repositório)
 
-Após extrair o ZIP, abra o terminal.
+### Terminal
 
 - Use o comando `cd (DIRETÓRIO DO JOGO)` para mudar para pasta do jogo.
-- Ou, no Linux, você pode abrir a pasta do jogo, apertar o botão direito e clicar em `Abrir o Terminal aqui`.
+- Ou, dependendo do seu sistema operacional, você pode abrir a pasta com o arquivo, apertar o botão direito e clicar em `Abrir o Terminal aqui`.
 
 Execute o jogo:
-`python3 jogo\ da\ velha.py`
+`python3 main.py`
+
+### Idle
+
+- Se tiver o `Idle` ou qualquer outro `IDE` instalado, você pode executar o jogo diretamente, abrindo o arquivo, clicando em `run` ou apertando `F5`(Idle) ou `CRTL+F5`(VS Code)
+
+
 
 ## Como jogar
 
